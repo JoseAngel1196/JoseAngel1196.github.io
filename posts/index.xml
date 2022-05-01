@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on My personal blog</title>
-    <link>https://joseangel1196.github.io/josehidalgo.github.io/posts/</link>
+    <link>https://JoseAngel1196.github.io/posts/</link>
     <description>Recent content in Posts on My personal blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 May 2022 14:10:09 -0400</lastBuildDate><atom:link href="https://joseangel1196.github.io/josehidalgo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 May 2022 14:10:09 -0400</lastBuildDate><atom:link href="https://JoseAngel1196.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Application Performance Elastic</title>
-      <link>https://joseangel1196.github.io/josehidalgo.github.io/posts/application-performance-elastic/</link>
+      <link>https://JoseAngel1196.github.io/posts/application-performance-elastic/</link>
       <pubDate>Sun, 01 May 2022 14:10:09 -0400</pubDate>
       
-      <guid>https://joseangel1196.github.io/josehidalgo.github.io/posts/application-performance-elastic/</guid>
+      <guid>https://JoseAngel1196.github.io/posts/application-performance-elastic/</guid>
       <description>On June 7, 2021, A Cloud Guru released a challenge about improving the performance of an application. After a very bumpy ride, I was able to complete this challenge. One of the things that made me work on this challenge was the need to learn terraform, so I found existing building the infrastructure of this project using terraform.
 Check it out! Let&amp;rsquo;s connect? Github LinkedIn
 My learnings When I started this challenge, there were a couple of things that I didn&amp;rsquo;t know about AWS and one of the reasons that made me work on this.</description>
