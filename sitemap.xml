@@ -2,17 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://JoseAngel1196.github.io/tags/aws/</loc>
+    <lastmod>2022-05-01T16:08:18-04:00</lastmod>
+  </url><url>
+    <loc>https://JoseAngel1196.github.io/posts/serverless-application-gasoline-prices/</loc>
+    <lastmod>2022-05-01T16:08:18-04:00</lastmod>
+  </url><url>
+    <loc>https://JoseAngel1196.github.io/</loc>
+    <lastmod>2022-05-01T16:08:18-04:00</lastmod>
+  </url><url>
+    <loc>https://JoseAngel1196.github.io/posts/</loc>
+    <lastmod>2022-05-01T16:08:18-04:00</lastmod>
+  </url><url>
+    <loc>https://JoseAngel1196.github.io/tags/python/</loc>
+    <lastmod>2022-05-01T16:08:18-04:00</lastmod>
+  </url><url>
+    <loc>https://JoseAngel1196.github.io/tags/serverless/</loc>
+    <lastmod>2022-05-01T16:08:18-04:00</lastmod>
+  </url><url>
+    <loc>https://JoseAngel1196.github.io/tags/</loc>
+    <lastmod>2022-05-01T16:08:18-04:00</lastmod>
+  </url><url>
+    <loc>https://JoseAngel1196.github.io/tags/terraform/</loc>
+    <lastmod>2022-05-01T16:08:18-04:00</lastmod>
+  </url><url>
     <loc>https://JoseAngel1196.github.io/posts/application-performance-elastic/</loc>
     <lastmod>2022-05-01T14:10:09-04:00</lastmod>
   </url><url>
-    <loc>https://JoseAngel1196.github.io/</loc>
+    <loc>https://JoseAngel1196.github.io/tags/cloudskills/</loc>
     <lastmod>2022-05-01T14:10:09-04:00</lastmod>
   </url><url>
-    <loc>https://JoseAngel1196.github.io/posts/</loc>
+    <loc>https://JoseAngel1196.github.io/tags/redis/</loc>
     <lastmod>2022-05-01T14:10:09-04:00</lastmod>
+  </url><url>
+    <loc>https://JoseAngel1196.github.io/archives/</loc>
   </url><url>
     <loc>https://JoseAngel1196.github.io/categories/</loc>
   </url><url>
-    <loc>https://JoseAngel1196.github.io/tags/</loc>
+    <loc>https://JoseAngel1196.github.io/search/</loc>
   </url>
 </urlset>

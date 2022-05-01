@@ -1,10 +1,65 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on My personal blog</title>
+    <title>Tags on Jose Hidalgo</title>
     <link>https://JoseAngel1196.github.io/tags/</link>
-    <description>Recent content in Tags on My personal blog</description>
+    <description>Recent content in Tags on Jose Hidalgo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://JoseAngel1196.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 May 2022 16:08:18 -0400</lastBuildDate><atom:link href="https://JoseAngel1196.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>aws</title>
+      <link>https://JoseAngel1196.github.io/tags/aws/</link>
+      <pubDate>Sun, 01 May 2022 16:08:18 -0400</pubDate>
+      
+      <guid>https://JoseAngel1196.github.io/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://JoseAngel1196.github.io/tags/python/</link>
+      <pubDate>Sun, 01 May 2022 16:08:18 -0400</pubDate>
+      
+      <guid>https://JoseAngel1196.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>serverless</title>
+      <link>https://JoseAngel1196.github.io/tags/serverless/</link>
+      <pubDate>Sun, 01 May 2022 16:08:18 -0400</pubDate>
+      
+      <guid>https://JoseAngel1196.github.io/tags/serverless/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>terraform</title>
+      <link>https://JoseAngel1196.github.io/tags/terraform/</link>
+      <pubDate>Sun, 01 May 2022 16:08:18 -0400</pubDate>
+      
+      <guid>https://JoseAngel1196.github.io/tags/terraform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cloudskills</title>
+      <link>https://JoseAngel1196.github.io/tags/cloudskills/</link>
+      <pubDate>Sun, 01 May 2022 14:10:09 -0400</pubDate>
+      
+      <guid>https://JoseAngel1196.github.io/tags/cloudskills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>redis</title>
+      <link>https://JoseAngel1196.github.io/tags/redis/</link>
+      <pubDate>Sun, 01 May 2022 14:10:09 -0400</pubDate>
+      
+      <guid>https://JoseAngel1196.github.io/tags/redis/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

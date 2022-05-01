@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>aws on Jose Hidalgo</title>
+    <link>https://JoseAngel1196.github.io/tags/aws/</link>
+    <description>Recent content in aws on Jose Hidalgo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 May 2022 16:08:18 -0400</lastBuildDate><atom:link href="https://JoseAngel1196.github.io/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Distributed Serverless Workflow</title>
+      <link>https://JoseAngel1196.github.io/posts/serverless-application-gasoline-prices/</link>
+      <pubDate>Sun, 01 May 2022 16:08:18 -0400</pubDate>
+      
+      <guid>https://JoseAngel1196.github.io/posts/serverless-application-gasoline-prices/</guid>
+      <description>My approach building a serverless application that notifies me of gasoline prices</description>
+    </item>
+    
+  </channel>
+</rss>
